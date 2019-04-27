@@ -1,0 +1,15 @@
+:root {
+    /*background-color: #EFF7FC;*/
+}
+
+.welcome {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    color: #161619;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0;
+}
